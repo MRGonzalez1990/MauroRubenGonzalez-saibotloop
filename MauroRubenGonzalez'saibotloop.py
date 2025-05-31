@@ -10,4 +10,6 @@ while True:
       continue
 y=input("What is your name?")
 print (y)
-    
+
+
+Copyright [2025] [Mauro Ruben Gonzalez]
